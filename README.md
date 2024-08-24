@@ -11,12 +11,11 @@ Welcome to the **Science Notes Website**! This platform provides comprehensive a
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
 
-[Live Demo Link](#) <!-- Replace '#' with your website's URL once available -->
+[Live Demo Link](https://science-notes-hub.netlify.app/)
 
 ## Features
 
@@ -52,25 +51,19 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
 3. Open index.html in your browser
 - You can simply double-click the index.html file or serve it using a local server for better performance.
-    # Using Live Server extension in VSCode
+    OR
+- Using Live Server extension in VSCode
 
 ## Usage
 
 - **Browsing Notes**: Use the navigation menu to select the subject (Physics, Chemistry, Biology) and explore the available topics.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). <!-- You can include a LICENSE file in your repository -->
-
 ## Contact
 
-- **Your Name**
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/your-profile)
-
-Feel free to reach out for any questions, suggestions, or collaboration opportunities!
+- **Rohan Gupta**
+- **Email**: [rohangupta0729@gmail.com](mailto:rohangupta0729@gmail.com)
+- **LinkedIn**: [Rohan Gupta](https://www.linkedin.com/in/rohan-gupta-webdev/)
 
 ---
 
-*Thank you for visiting the Science Notes Website! We hope this resource enhances your learning experience and fosters a deeper understanding of scientific concepts.*
+*Thank you for visiting the Science Notes Hub Website!*
